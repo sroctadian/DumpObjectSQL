@@ -1,0 +1,13 @@
+DumpObjectSQL
+---------------------------------------------------------
+
+*) Description :
+Create Data Definition Language from your Oracle Database Object,
+using Oracle DBMS_METADATA and cx_Oracle.
+
+*) Usage:
+run python DumpObjectSQL.py [user] [password] [sid] [object type] [output directory]
+
+Author  : Syahreza Octadian
+E-mail  : syahreza.octadian@gmail.com
+
